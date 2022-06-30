@@ -6,7 +6,5 @@ public class Main {
         System.out.println(len);
         System.out.println(message1 + ". " + message2);
         System.out.println(message2.indexOf("l!"));
-        System.out.println(message1.startsWith("Hell"));
-        System.out.println(message2.endsWith("al"));
     }
 }
