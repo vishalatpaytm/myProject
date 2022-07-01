@@ -8,5 +8,6 @@ public class Main {
         System.out.println(message2.indexOf("l!"));
         System.out.println(message2.endsWith("al"));
         System.out.println(message2.startsWith("Goo"));
+        System.out.println(message1.startsWith("Goo"));
     }
 }
